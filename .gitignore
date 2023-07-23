@@ -1,0 +1,19 @@
+# Creating 
+./in/
+./out/
+./transaction/
+
+# Result files
+*.png
+*.csv
+
+
+# python code
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+test.py

@@ -1,0 +1,10 @@
+{
+    "APIKEY":"",
+    "TRANSACTION_DIR": "./transaction",
+    "OUT_DIR": "./out",
+    "IN_DIR": "./in",
+    "CONF_DIR": "./conf",
+
+    "INPUT_FILE_BASE_NAME_US_STOCK": "tradehistory(US)_",
+    "INPUT_FILE_BASE_NAME_DIVIDEND": "dividendlist_"
+}
